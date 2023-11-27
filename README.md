@@ -28,7 +28,9 @@ To run the Stopwatch project locally, follow these steps:
    ```bash
    git clone https://github.com/nazifansari/Stopwatch.git
 
+## Demo
 
+[Click Here](https://nazifansari.github.io/Stopwatch/)
 
 ## License
 
